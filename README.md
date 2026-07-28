@@ -27,5 +27,5 @@ Was Tesla's declining profitability mainly driven by aggressive price reductions
 - Business Insight Generation
 
 ## Repository Contents
-- Tesla Profitability Analysis.ipynb
+- Tesla_Profitability_Analysis.ipynb
 - Tesla_Profitability_Analysis.pdf
